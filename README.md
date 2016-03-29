@@ -6,5 +6,5 @@ To install this package
 ```
 library(devtools)
 install_github('kkdey/TrumpTwitterFeed')
-data("trump.data")
+data("trump.data.frame")
 ```
